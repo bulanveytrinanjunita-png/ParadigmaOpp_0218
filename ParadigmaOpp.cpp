@@ -15,3 +15,8 @@ public:
         cout << "NILAI : " << nilai << endl;
     }
 };
+
+int main()
+{
+    Mahasiswa mhs;
+}
