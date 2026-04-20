@@ -12,5 +12,6 @@ public:
     {
         cout << "NIM : " << nim << endl;
         cout << "NAMA : " << nama << endl;
+        cout << "NILAI : " << nilai << endl;
     }
 };
